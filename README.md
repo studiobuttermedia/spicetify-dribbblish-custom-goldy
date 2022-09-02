@@ -1,8 +1,11 @@
 # spicetify-dribbblish-custom-goldy
 A custom color scheme for Spicetify Dribbbilish Theme
 
-### **Preview**
+## **Preview**
 
-## __Dark Goldy__
+### __Dark Goldy__
 
 ![Dark Goldy Screenshot](/Dark%20Goldy.png)
+
+### __Light Goldy__
+![Light Goldy Screenshot](/Light%20Goldy.png)
